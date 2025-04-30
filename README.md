@@ -21,11 +21,8 @@
 ---
 
 # 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atinderpal) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/atinderpal) 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/atinderpal) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yourid) 
-[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@atinderpal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atinderpal-sing) 
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/ffrostic-burn) 
 
 ---
 
@@ -61,19 +58,3 @@
 - **Embedded Systems** – Hardware automation, IoT devices, and network integration  
 - **Project Management** – Effective planning and execution of team projects  
 - **Automation & Scripting** – Python/JavaScript for productivity and system integration
-
----
-
-# 🏠 The Road So Far
-
-### **Chandigarh University**  
-**Computer Science & Engineering Student**  
-2024 - 2028 | Mohali, Punjab
-
-### **The Akaal Thrifts**  
-**Full Stack Developer**  
-2025 - Present | Remote | Self-Employed  
-*Technologies:* JavaScript, TypeScript, React, Next.js
-
-
-**© 2025 Atinderpal Singh. All rights reserved.**
