@@ -14,9 +14,9 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=atinderpal&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atinderpal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-![](https://github-readme-stats.vercel.app/api?username=atinderpal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frostic-burn&theme=dark&hide_border=false)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=frostic-burn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=frostic-burn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ---
 
