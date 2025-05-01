@@ -7,12 +7,6 @@
   <img alt="github-snake" src="github-contribution-grid-snake.svg" />
 </picture>
 
-🌍 **Portfolio Website:** [**atinders-portfolio.vercel.app**]([https://your-portfolio-link.com](https://atinders-portfolio.vercel.app/))
-
-👨‍💻 **Computer Science Student at Chandigarh University** – Passionate about building impactful **hardware and software** solutions that bridge the gap between the digital and physical worlds. From **web apps** to **IoT systems**, I love building tech that solves real-world problems.
-
----
-
 # 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frostic-burn&theme=dark&hide_border=false)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frostic-burn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
